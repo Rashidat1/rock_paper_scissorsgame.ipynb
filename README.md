@@ -5,7 +5,7 @@ A simple Python game that simulates Rock, Paper, Scissors.
 A beginner-friendly Python project that simulates a classic game between the user and the computer.
 
 ## How to Run
-1. Clone the repo
+1. Clone the last cell of repo
 2. Run
 
 ## Features
