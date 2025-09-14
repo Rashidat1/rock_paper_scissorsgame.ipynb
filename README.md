@@ -15,9 +15,11 @@ A beginner-friendly Python project that simulates a classic game between the use
 - Replay option
 
 ## What I Learned
-- Python basics: variables, loops, conditionals
+- Python basics: variables, data types, control flow, loops, and conditionals
 - Using the `random` module
+- using the .lower() built-in string method
 - Structuring a simple game
+
 
 ## Future Ideas
 - Add score tracking
